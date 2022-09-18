@@ -1,4 +1,4 @@
-# Pass_Reset_Template
+# Pass Reset Template
 A simple program written in Tkinter for generating copy-paste-able templates for ticket reports.
 
 ![image](https://user-images.githubusercontent.com/110345466/190889308-ab1e9a91-a7f8-4227-86b1-cd18fa50d97a.png)
