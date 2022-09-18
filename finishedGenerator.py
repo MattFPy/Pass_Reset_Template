@@ -634,7 +634,7 @@ def passOptionsSelected(event):
         root.destroy()
 
 # Main dropdown options, visible at the start
-passOptions = ["Do wyboru...",
+passOptions = ["Select...",
                "Domeny (ACCT01-05, US, INTL, itp.)",
                "Bitlocker",
                "MyID/SmartCard",
