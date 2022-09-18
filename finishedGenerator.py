@@ -635,7 +635,7 @@ def passOptionsSelected(event):
 
 # Main dropdown options, visible at the start
 passOptions = ["Select...",
-               "Domeny (ACCT01-05, US, INTL, itp.)",
+               "Domains (ACCT01-05, US, INTL, itp.)",
                "Bitlocker",
                "MyID/SmartCard",
                "SecurID",
